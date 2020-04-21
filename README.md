@@ -1,5 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 An analysis on Kickstarter data was performed  to uncover trends and the following was discovered- 
+
 *There are 525 successful theather campaigns in the united states 
 
 *While there is only a total of 604 kickstarter campaigns for Plays in Great Britain, the Play category is the most successful
