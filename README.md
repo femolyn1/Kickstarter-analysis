@@ -35,7 +35,8 @@ https://github.com/femolyn1/Kickstarter-analysis/blob/master/Untitled.png
 
 * To determine whether the length of a campaign contributes to its success or failure and the number of campaigns that came close to its fund raising goals, two columns are required:  
 
-i. A column with formatted deadline date 
-ii. A column showing the difference between the deadline date and the launch date in days. 
+   i. A column with formatted deadline date 
+   
+   ii. A column showing the difference between the deadline date and the launch date in days. 
    
 
