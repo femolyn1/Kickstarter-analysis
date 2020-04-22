@@ -7,8 +7,11 @@ An analysis on Kickstarter data was performed  to uncover trends and the followi
 
 *The most successful kickstarter campaigns were started in May and December doesnt seem like a great time to launch a campaign
 
-*Using the box and whisker plot, it was observed that the mean goal of 4000 pounds is outside the range of outlier for the amount pledged, so the recommedation is taht Loiuse should get her play produced for less than 4000 pounds--- Its also worth noting that half of the campaign goals are less than 2000 pounds which is just over the 3rd quartile for the amount pledged
+*Using the box and whisker plot, it was observed that the mean goal of 4000 pounds is outside the range of outlier for the amount pledged, so the recommedation is that Loiuse should get her play produced for less than 4000 pounds
+
+*Its also worth noting that half of the campaign goals are less than 2000 pounds which is just over the 3rd quartile for the amount pledged
 
 
 https://github.com/femolyn1/Kickstarter-analysis/blob/master/Chart.png
 
+### Challenge
