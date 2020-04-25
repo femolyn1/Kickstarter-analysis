@@ -19,9 +19,9 @@ https://github.com/femolyn1/Kickstarter-analysis/blob/master/Untitled.png
 ### Challenge
 1. Given the provided data, we can draw the following conclusions:
 
-* Few people are likely to support or back goals within the range of $45,000 to $49,999 under the Plays subcategory. This is becasue 100% failure was observed for goals within this range for the kickstarter campaign
+* Few people are likely to support or back goals within the range of $45,000 to $49,999 under the Plays subcategory. This is because 100% failure was observed for goals within this range for the kickstarter campaign
 
-* Although the highest percentage of successsful goals was 76% within the less than $1000 range in the plays subcategory, the number of projects within this range is less than the number of projects within the $1,000 to $4,999 range which had the second highest successful goal of 73%. Based on this ,a 73% goal success rate within the Play subcategory and $1,000 to $4,999 range is more realistic.
+* Although the highest percentage of successsful goals was 76% within the less than $1000 range in the plays subcategory, the number of projects within this range is less than the number of projects within the $1,000 to $4,999 range which had the second highest successful goal of 73%. Based on this ,a 73% goal success rate within the Play subcategory and $1,000 to $4,999 range looks more realistic.
 
 * A total of 493 failed kickstarter campaigns  within the theatre parent category was observed and 349 of those campaigns were in the United states.
 
