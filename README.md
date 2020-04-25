@@ -37,6 +37,11 @@ https://github.com/femolyn1/Kickstarter-analysis/blob/master/Untitled.png
 
    i. A column with formatted deadline date 
    
-   ii. A column showing the difference between the deadline date and the launch date in days. 
+   ii. A column showing the difference between the deadline date and the launch date in days.
+   
+   Graphs:
+   
+   https://github.com/femolyn1/Kickstarter-analysis/blob/master/Outcome%20based%20on%20launch%20Date.png
+   
    
 
